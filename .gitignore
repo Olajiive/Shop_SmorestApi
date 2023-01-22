@@ -1,0 +1,6 @@
+__pycache__/
+instance/
+/practice/
+/resources/__pycache__/
+/models/__pycache__/
+/.flaskenv
